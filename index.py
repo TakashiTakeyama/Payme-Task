@@ -1,8 +1,13 @@
+import requests
 import json
 import csv
 
+BASE_API_END_POINT = "https://demo2055603.mockable.io/user_daily_reports"
+response = requests.get(BASE_API_END_POINT)
+response.encoding = response.apparent_encoding
+print(response)
 # JSONファイルのロード
-json_dict = json.load(open('data/players.json', 'r'))
+json_dict = json.load(response.read())
 # list of dictの抽出
 target_dicts = json_dict
 
