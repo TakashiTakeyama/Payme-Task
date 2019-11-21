@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "provider": "organic",
+    "date_ym": 201904,
+    "date_d": 1,
+    "date": 20190401,
+    "total_count": 4,
+    "registered_count": 4,
+    "unregistered_count": 0
+  },
+  {
+    "id": 2,
+    "provider": "facebook",
+    "date_ym": 201904,
+    "date_d": 1,
+    "date": 20190401,
+    "total_count": 2,
+    "registered_count": 2,
+    "unregistered_count": 0
+  },
+  {
+    "id": 3,
+    "provider": "twitter",
+    "date_ym": 201904,
+    "date_d": 1,
+    "date": 20190401,
+    "total_count": 3,
+    "registered_count": 3,
+    "unregistered_count": 0
+  },
+  {
+    "id": 4,
+    "provider": "organic",
+    "date_ym": 201904,
+    "date_d": 2,
+    "date": 20190402,
+    "total_count": 6,
+    "registered_count": 2,
+    "unregistered_count": 0
+  },
+  {
+    "id": 5,
+    "provider": "facebook",
+    "date_ym": 201904,
+    "date_d": 2,
+    "date": 20190402,
+    "total_count": 2,
+    "registered_count": 0,
+    "unregistered_count": 0
+  },
+  {
+    "id": 6,
+    "provider": "twitter",
+    "date_ym": 201904,
+    "date_d": 2,
+    "date": 20190402,
+    "total_count": 4,
+    "registered_count": 1,
+    "unregistered_count": 0
+  },
+  {
+    "id": 7,
+    "provider": "organic",
+    "date_ym": 201904,
+    "date_d": 3,
+    "date": 20190403,
+    "total_count": 10,
+    "registered_count": 4,
+    "unregistered_count": 0
+  },
+  {
+    "id": 8,
+    "provider": "facebook",
+    "date_ym": 201904,
+    "date_d": 3,
+    "date": 20190403,
+    "total_count": 5,
+    "registered_count": 3,
+    "unregistered_count": 0
+  },
+  {
+    "id": 9,
+    "provider": "twitter",
+    "date_ym": 201904,
+    "date_d": 3,
+    "date": 20190403,
+    "total_count": 16,
+    "registered_count": 12,
+    "unregistered_count": 0
+  },
+  {
+    "id": 10,
+    "provider": "organic",
+    "date_ym": 201905,
+    "date_d": 1,
+    "date": 20190501,
+    "total_count": 9,
+    "registered_count": 0,
+    "unregistered_count": 1
+  },
+  {
+    "id": 11,
+    "provider": "facebook",
+    "date_ym": 201905,
+    "date_d": 1,
+    "date": 20190501,
+    "total_count": 10,
+    "registered_count": 5,
+    "unregistered_count": 0
+  },
+  {
+    "id": 12,
+    "provider": "twitter",
+    "date_ym": 201905,
+    "date_d": 1,
+    "date": 20190501,
+    "total_count": 25,
+    "registered_count": 9,
+    "unregistered_count": 0
+  },
+  {
+    "id": 13,
+    "provider": "organic",
+    "date_ym": 201905,
+    "date_d": 2,
+    "date": 20190502,
+    "total_count": 14,
+    "registered_count": 5,
+    "unregistered_count": 0
+  },
+  {
+    "id": 14,
+    "provider": "facebook",
+    "date_ym": 201905,
+    "date_d": 2,
+    "date": 20190502,
+    "total_count": 8,
+    "registered_count": 0,
+    "unregistered_count": 2
+  },
+  {
+    "id": 15,
+    "provider": "twitter",
+    "date_ym": 201905,
+    "date_d": 2,
+    "date": 20190502,
+    "total_count": 27,
+    "registered_count": 2,
+    "unregistered_count": 0
+  },
+  {
+    "id": 16,
+    "provider": "organic",
+    "date_ym": 201905,
+    "date_d": 3,
+    "date": 20190503,
+    "total_count": 12,
+    "registered_count": 0,
+    "unregistered_count": 2
+  },
+  {
+    "id": 17,
+    "provider": "facebook",
+    "date_ym": 201905,
+    "date_d": 3,
+    "date": 20190503,
+    "total_count": 6,
+    "registered_count": 0,
+    "unregistered_count": 2
+  },
+  {
+    "id": 18,
+    "provider": "twitter",
+    "date_ym": 201905,
+    "date_d": 3,
+    "date": 20190503,
+    "total_count": 24,
+    "registered_count": 0,
+    "unregistered_count": 3
+  },
+  {
+    "id": 19,
+    "provider": "organic",
+    "date_ym": 201906,
+    "date_d": 1,
+    "date": 20190601,
+    "total_count": 12,
+    "registered_count": 0,
+    "unregistered_count": 0
+  },
+  {
+    "id": 20,
+    "provider": "facebook",
+    "date_ym": 201906,
+    "date_d": 1,
+    "date": 20190601,
+    "total_count": 14,
+    "registered_count": 8,
+    "unregistered_count": 0
+  },
+  {
+    "id": 21,
+    "provider": "twitter",
+    "date_ym": 201906,
+    "date_d": 1,
+    "date": 20190601,
+    "total_count": 29,
+    "registered_count": 5,
+    "unregistered_count": 0
+  },
+  {
+    "id": 22,
+    "provider": "organic",
+    "date_ym": 201906,
+    "date_d": 2,
+    "date": 20190602,
+    "total_count": 22,
+    "registered_count": 10,
+    "unregistered_count": 0
+  },
+  {
+    "id": 23,
+    "provider": "facebook",
+    "date_ym": 201906,
+    "date_d": 2,
+    "date": 20190602,
+    "total_count": 19,
+    "registered_count": 5,
+    "unregistered_count": 0
+  },
+  {
+    "id": 24,
+    "provider": "twitter",
+    "date_ym": 201906,
+    "date_d": 2,
+    "date": 20190602,
+    "total_count": 41,
+    "registered_count": 12,
+    "unregistered_count": 0
+  },
+  {
+    "id": 25,
+    "provider": "organic",
+    "date_ym": 201906,
+    "date_d": 3,
+    "date": 20190603,
+    "total_count": 30,
+    "registered_count": 8,
+    "unregistered_count": 0
+  },
+  {
+    "id": 26,
+    "provider": "facebook",
+    "date_ym": 201906,
+    "date_d": 3,
+    "date": 20190603,
+    "total_count": 16,
+    "registered_count": 0,
+    "unregistered_count": 3
+  },
+  {
+    "id": 27,
+    "provider": "twitter",
+    "date_ym": 201906,
+    "date_d": 3,
+    "date": 20190603,
+    "total_count": 76,
+    "registered_count": 35,
+    "unregistered_count": 0
+  }
+]
